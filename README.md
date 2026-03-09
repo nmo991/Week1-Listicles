@@ -20,14 +20,6 @@ The following **required** functionality is completed:
 - [X] **The web app serves an appropriate 404 page when no matching route is defined**
 - [X] **The web app is styled using Picocss**
 
-The following **optional** features are implemented:
-
-- [ ] The web app displays items in a unique format, such as cards rather than lists or animated list items
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 Here's a walkthrough of implemented required features:
 
